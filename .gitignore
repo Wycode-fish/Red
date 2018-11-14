@@ -1,0 +1,6 @@
+# for project directories
+.vs/
+bin/
+bin-int/
+# for files
+*.user
